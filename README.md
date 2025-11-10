@@ -2,4 +2,4 @@
 
 Thesis by Maxime Vergnaud for AI Applications and Innovation MSc at Imperial College London. Grade: Distinction (85%).
 
-[Title_Page.pdf](https://github.com/user-attachments/files/23450877/Title_Page.pdf)
+[[(https://github.com/user-attachments/files/23450877/Title_Page.pdf)]]
